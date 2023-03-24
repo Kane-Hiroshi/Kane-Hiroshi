@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kane-Hiroshi
 - 👀 I’m interested in Harmonica
-- 🌱 I’m currently learning Japanese and Qt
+- 🌱 I’m currently learning English and .Net Core
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me (no way)
 
